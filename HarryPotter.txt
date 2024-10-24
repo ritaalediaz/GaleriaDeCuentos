@@ -5,3 +5,8 @@ habita en su interior. Con sus inseparables amigos, Hermione Granger y Ron Weasl
 enfrenta a criaturas fantásticas, encantamientos peligrosos y misterios antiguos, mientras
 desentraña los secretos del mundo mágico y lucha contra la oscuridad que amenaza con
 envolverlo todo."
+"A medida que Harry se adentra en los pasillos encantados de Hogwarts, se da cuenta de que su conexión 
+con el poderoso mago oscuro, Lord Voldemort, es más profunda de lo que jamás imaginó. Cada año escolar trae 
+nuevos desafíos y misterios por resolver, desde objetos mágicos ocultos hasta hechizos prohibidos. Sin embargo,
+ lo que realmente fortalece a Harry no es solo la magia que aprende, sino la amistad, el valor y el amor que encuentra 
+ en aquellos que están a su lado, formando el escudo más poderoso contra la oscuridad."
